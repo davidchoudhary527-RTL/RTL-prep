@@ -1,0 +1,6 @@
+{
+  "name": "RTL Learning - ASIC & Hardware Architecture Workbench",
+  "description": "Comprehensive 60-day ASIC front-end RTL design, STA, CDC, and Tier-1 silicon interview prep workbench with interactive simulation lab and curriculum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
